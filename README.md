@@ -1,1 +1,1 @@
-Learning project
+This project is to understand Ember 
